@@ -23,16 +23,10 @@ Typically, policyholders above a certain age (often 40 or 45 years) are required
 >- **CorporateName :** Insurer Name
 >- **PatientName :** Name of Insured who will go under the medicals.
 >- **ApplicationId :** Insured Application Number
->- **ContactNo :** Insured Mobile Number
->- **PackageName :** Name of the Medical Tests
->- **AppointmentDate :** Medical Tests Date
->- **ApptTime :** Medical Tests Time
->- **VisitType :** Home Visit or Diagnostic Center Visit
->- **ProviderName :** Diagnostic Centre Name
->- **ProviderState :** Diagnostic Centre State
->- **ProviderCity :** Diagnostic Centre City
 >- **AppointmentStatus :** Current starus of Appointment
-
+>- **LastCallStatus :** Final Call Status
+>- **NumberofAttempts :** No of Call Attempts
+>- **DND :** Particular Case has been marked DND (Do Not Disturb) or not.
 
 ## ⭐ `Getting started` :
 >We will first build the logic and will explain and make the program. And after the we will make a function to repeat this daily task, make it simple for the account manager who is not well verse with python and save the time.
