@@ -28,7 +28,7 @@ Typically, policyholders above a certain age (often 40 or 45 years) are required
 >- **NumberofAttempts :** No of Call Attempts
 >- **DND :** Particular Case has been marked DND (Do Not Disturb) or not.
 
-## ⭐ `Getting started` :
+# ⭐ `Let's start with the Program` :
 >We will first build the logic and will explain and make the program. And after the we will make a function to repeat this daily task, make it simple for the account manager who is not well verse with python and save the time.
 >1. In First Python Program we will build and explain the entire process
 >2. In Second Python Program we will write the function to repeat this daily task, make it simple for the account manager who is not well verse with python and save the time.
